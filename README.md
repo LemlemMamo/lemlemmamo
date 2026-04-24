@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a passionate developer transitioning into the tech industry. I specialize in building responsive web applications and solving complex problems through code.
 <!--
 **LemlemMamo/lemlemmamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
